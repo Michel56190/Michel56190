@@ -1,8 +1,8 @@
 - 👋 Je suis Michel56190
 - Je fais un peu de photos et désire passer à la retouche phoyo
 - 👀 J'adoe voyager
-- 🌱 Je fais de la p^che en mer en bateau
-- 💞️ J'habite dabs le Morbihan en France
+- 🌱 Je fais de la peche en mer en bateau
+- 💞️ J'habite dans le Morbihan en France
 
 
 <!---
